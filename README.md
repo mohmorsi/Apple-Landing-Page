@@ -9,7 +9,7 @@
 
 <div align="center">
 
-# apple.com-Landing-Page
+# apple.com Landing Page
 
 </div>
 
